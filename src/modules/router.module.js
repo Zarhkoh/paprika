@@ -5,7 +5,7 @@
  */
 
 
-const consulterusers = require('../routes/ConsulterUsers.route');
+const users = require('../routes/Users.route');
 
 
 module.exports = app => {
